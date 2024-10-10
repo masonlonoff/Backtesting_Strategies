@@ -6,4 +6,4 @@ This repository consists of 4 different backtesting strategies for trading on th
 3. Mean Reversion
 4. Simple Moving Averages
 
-Each notebook consists of each independent strategy. Each notebook also contains performance metrics, parameter optimization, parameter optimizatio based on perfomance metrics, and result visualizations. 
+Each notebook consists of each independent strategy. Each notebook also contains performance metrics, parameter optimization, parameter optimization based on perfomance metrics, and result visualizations. 
